@@ -46,7 +46,7 @@ return(
 
 
 
-                <div className="popular">
+                <div className="loved">
                     <h2>Most loved mocktails:</h2>
 
                     <ul>
