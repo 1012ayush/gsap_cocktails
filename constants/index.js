@@ -22,25 +22,25 @@ const cocktailLists = [
         name: "Chapel Hill Shiraz",
         country: "AU",
         detail: "Battle",
-        price: "$10",
+        price: "₹199",
     },
     {
         name: "Caten Malbee",
         country: "AU",
         detail: "Battle",
-        price: "$49",
+        price: "₹199",
     },
     {
         name: "Rhino Pale Ale",
         country: "CA",
         detail: "750 ml",
-        price: "$20",
+        price: "₹299",
     },
     {
         name: "Irish Guinness",
         country: "IE",
         detail: "600 ml",
-        price: "$29",
+        price: "₹299",
     },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
         name: "Tropical Bloom",
         country: "US",
         detail: "Battle",
-        price: "$10",
+        price: "₹799",
     },
     {
         name: "Passionfruit Mint",
         country: "US",
         detail: "Battle",
-        price: "$49",
+        price: "₹899",
     },
     {
         name: "Citrus Glow",
         country: "CA",
         detail: "750 ml",
-        price: "$20",
+        price: "₹199",
     },
     {
         name: "Lavender Fizz",
         country: "IE",
         detail: "600 ml",
-        price: "$29",
+        price: "₹299",
     },
 ];
 
@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
     heading: "Where to Find Us",
-    address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    address: "456, Rawatpur, Kanpur Nagar, UP 208028",
     contact: {
-        phone: "(555) 987-6543",
-        email: "hello@jsmcocktail.com",
+        phone: "(+91) 987-6543",
+        email: "hello@ayush/cocktail.com",
     },
 };
 
@@ -134,7 +134,7 @@ const socials = [
     },
 ];
 
-const sliderLists = [
+const allCocktails = [
     {
         id: 1,
         name: "Classic Mojito",
@@ -179,5 +179,5 @@ export {
     openingHours,
     storeInfo,
     socials,
-    sliderLists,
+    allCocktails,
 };
